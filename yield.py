@@ -10,3 +10,8 @@ print (next(x))
 print (next(x))
 print (next(x))
 
+def genfun():
+    for i in range(10,0,-1):
+        yield i
+
+a=list(map(lambda x:print(x), genfun()))
