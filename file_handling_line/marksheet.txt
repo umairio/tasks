@@ -1,0 +1,12 @@
+Marks of Student 1 in Maths are 71
+Marks of Student 1 in Maths are 75
+Marks of Student 1 in Maths are 68
+
+Marks of Student 2 in Maths are 50
+Marks of Student 2 in Maths are 42
+Marks of Student 2 in Maths are 39
+
+Marks of Student 3 in Maths are 69
+Marks of Student 3 in Maths are 55
+Marks of Student 3 in Maths are 63
+
